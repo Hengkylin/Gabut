@@ -10,5 +10,5 @@ Halaman ini berisi daftar lagu favorit dari **Aqours (Love Live! Sunshine!!)** y
 | 4 | **Koi ni Naritai AQUARIUM** | You Watanabe ⚓ | [Dengerin di Sini](https://open.spotify.com/track/2XUvS9v3S7P4v7w6G5h4f3) |
 | 5 | **Misty Frosty Love** | Kanan & Riko ❄️ | [Dengerin di Sini](https://open.spotify.com/track/5XUvS9v3S7P4v7w6G5h4f3) |
 | 6 | **Thrilling • One Way** | Aqours | [Dengerin di Sini](https://open.spotify.com/track/1XUvS9v3S7P4v7w6G5h4f3) |
-
+| 7 | **
 ---
